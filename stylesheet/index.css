@@ -26,8 +26,14 @@ body{
     background-color:#220080;
     border-radius:15px;
 }
+.flex-end{
+    justify-content: flex-end;
+}
+.center{
+    justify-content: center;
+}
 
-.flex-start.hidden{
+.hidden{
     display:none;
 }
 
